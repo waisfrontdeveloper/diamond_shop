@@ -1,2 +1,2 @@
-# diamond_shop
+# BLOOM-SHOP
 welcome
